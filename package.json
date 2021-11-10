@@ -1,0 +1,11 @@
+{
+  "name": "game-sketch-api",
+  "version": "1.0.0",
+  "description": "API consumed by game sketch app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
