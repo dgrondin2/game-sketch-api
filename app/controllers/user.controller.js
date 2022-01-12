@@ -1,5 +1,4 @@
 const db = require('../models');
-const argon2 = require('argon2');
 const Card = db.cards;
 const Op = db.Sequelize.Op;
 
